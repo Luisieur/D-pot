@@ -1,0 +1,7 @@
+a-) La commande "git pull" permet d'envoyer le depot sur l'origine dans le compte git hub tandis que la commande "git fetch" ne l'envoie pas dans l'origine 
+
+b-)On peut annuler les modifications locales non validées en retournant au commit précédent 
+
+c-)On peut supprimer une branche distante avec la commande "git branch -d nombranche"
+
+d-) On peut utiliser la commande " git log" ou "git show"
